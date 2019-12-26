@@ -1,0 +1,68 @@
+
+material 14-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.329412 0.054902 0 1
+			diffuse 0.329412 0.054902 0 1
+			specular 1.089 1.089 1.089 1 72
+		}
+
+	}
+
+}
+
+
+
+material 13-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.160784 0.184314 0.152941 1
+			diffuse 0.160784 0.184314 0.152941 1
+			specular 0.93 0.93 0.93 1 14
+		}
+
+	}
+
+}
+
+
+
+material 15-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.262745 0.262745 0.262745 1
+			diffuse 0.262745 0.262745 0.262745 1
+			specular 1.008 1.008 1.008 1 10
+		}
+
+	}
+
+}
+
+
+
+material 13-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.160784 0.184314 0.152941 1
+			diffuse 0.160784 0.184314 0.152941 1
+			specular 0.93 0.93 0.93 1 14
+		}
+
+	}
+
+}
+
+

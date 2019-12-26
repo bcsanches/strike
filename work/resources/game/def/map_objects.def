@@ -1,0 +1,31 @@
+
+MapObjectDef Hunter
+{
+  components = "Mesh|Helicopter";
+
+  //className=Helicopter;       
+  
+  rotorModel = "hunter_heli01.mesh";
+  tailRotorModel = "hunter_heli002.mesh";
+  
+  rotorTag = "Bone003";
+  tailRotorTag = "Bone_rotor02";
+  rootTag = "Bone001";
+  
+  maxPitch = 10;
+  maxRoll = 8;
+  
+  //rotations per second
+  rotorRPS = 3;
+  
+  //seconds
+  rotorWarmupTime = 3;
+  
+  cruiseAltitude = 10;
+  takeOffTime = 5;     
+  
+  //helicopter acceleration time for full speed in seconds
+  moveAcceleration = 0.3;
+  
+  turnAcceleration = 0.3;
+}
